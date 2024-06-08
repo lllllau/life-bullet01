@@ -2,6 +2,7 @@
 ## 项目概述/project outline
 **游戏的名称和简要介绍/Name and brief introduction of the game**
 游戏名为Life bullet，顾名思义，这是一颗带有生命的子弹。即便是在绿意萧条的环境下，玩家也可以拿起手机打开此项目，发射lifebullet，在地面上长出的一棵棵虚拟植株，来创造属于自己的虚拟花园。
+
 The game is called Life bullet, and as the name suggests, it is a bullet with a life. Even in a stagnant green environment, players can pick up the phone to open the project, fire lifebullet, and create their own virtual garden by growing virtual plants on the ground.
 
 <img width="360" height="640" scr="github.com/lllllau/Life-Bullet/assets/163080192/dc4887b2-1017-481a-92aa-09294ab90932"/>
